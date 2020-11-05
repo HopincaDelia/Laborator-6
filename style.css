@@ -1,0 +1,20 @@
+body{background-color:yellow;}
+h1 
+{color:red;
+font-size:30px;
+text-align: left;}
+p
+{font-family:cursive;
+font-style:italic;
+font-size:35px;}
+table
+{background-color:blue;}
+ul
+{background-color:pink;}
+table, tr, td, ul {border:3px dotted;}
+img
+{border:3px;
+border-radius:20px;
+width:400px;
+{margin: 25px 50px 75px 100px;
+opacity:0.8;}
